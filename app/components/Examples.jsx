@@ -2,7 +2,10 @@ var React = require('react');
 
 var Examples = () => {
     return (
-        <h3>Examples Compo and much more!!!</h3>
+        <div>
+            <h3>Examples Compo and much more!!!</h3>
+            <p>Welcome to Examples madafakaa</p>
+        </div>
     )
 };
 
