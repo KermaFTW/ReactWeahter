@@ -11,6 +11,12 @@ var Examples = () => {
                     <Link to="/?location=Bijeljina">Bijeljina, Republika Srpska</Link>
                 </li>
                 <li>
+                    <Link to="/?location=Novi Sad">Novi Sad,Srbija</Link>
+                </li>
+                <li>
+                    <Link to="/?location=Sombor">Sombor, Srbija</Link>
+                </li>
+                <li>
                     <Link to="/?location=Rio">Rio, Brazil</Link>
                 </li>
             </ol>

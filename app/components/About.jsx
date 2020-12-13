@@ -18,12 +18,6 @@ var About = (props) => {
                      weather map to searhc weahter data
                 </li>
             </ul>
-            <div>
-                <span className="badge primary">2</span>
-            </div>
-            <div>
-                <span className="badge success"><i className="fi-check">Works</i></span>
-            </div>
         </div>
 
     )
